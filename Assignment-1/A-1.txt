@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+	printf("Hi, all Fexle family  ");
+
+	return 0;
+}
