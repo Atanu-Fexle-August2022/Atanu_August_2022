@@ -1,10 +1,25 @@
 #include<stdio.h>
 int main()
 {
+
+	printf("Hi, all Fexle family  ");
+
+
+		int a,b,n;
+		
+	printf("Enter the numbers ");
+	scanf("%d",n);
+
+	printf("Enter first number: ");
+	printf("Enter second number: ");
+
+	scanf("%d",&a);
+	scanf("%d",&b);
 	int a,b;
 		
 	printf("Enter the numbers for sum: ");
 	scanf("%d %d",&a,&b);
+
 
 	int sum=0;
 	sum=a+b;
