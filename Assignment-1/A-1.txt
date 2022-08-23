@@ -2,6 +2,8 @@
 int main()
 {
 	printf("Hi, all Fexle family  ");
+	printf("Thank you everyone");
+	printf("Work Hard Dream Big ");
 
 	return 0;
 }
