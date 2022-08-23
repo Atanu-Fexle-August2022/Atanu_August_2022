@@ -3,5 +3,18 @@ int main()
 {
 	printf("Hi, all Fexle family  ");
 
+	//changes//
+
+
+		int a,b;
+		
+	printf("Enter the numbers ");
+	scanf("%d %d",&a,&b);
+
+	int sum=0;
+	sum=a+b;
+
+	printf("Result=%d",sum);
+
 	return 0;
 }
