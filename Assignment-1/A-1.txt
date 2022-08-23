@@ -6,10 +6,17 @@ int main()
 	//changes//
 
 
-		int a,b;
+		int a,b,n;
 		
 	printf("Enter the numbers ");
-	scanf("%d %d",&a,&b);
+	scanf("%d",n);
+
+	printf("Enter first number: ");
+	printf("Enter second number: ");
+
+	scanf("%d",&a);
+	scanf("%d",&b);
+	
 
 	int sum=0;
 	sum=a+b;
