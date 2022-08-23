@@ -1,14 +1,9 @@
 #include<stdio.h>
 int main()
 {
-	printf("Hi, all Fexle family  ");
-
-	//changes//iyQRFehajf ajkhdasdjasjdhsgkdgAWFDASVGF
-
-
-		int a,b;
+	int a,b;
 		
-	printf("Enter the numbers ");
+	printf("Enter the numbers for sum: ");
 	scanf("%d %d",&a,&b);
 
 	int sum=0;
